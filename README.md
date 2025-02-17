@@ -1,4 +1,4 @@
-#Pipedrive to Active Campaign Note Sync Tool (Beta)
+# Pipedrive to Active Campaign Note Sync Tool (Beta)
 
 ⚠️ CAUTION: This tool is currently under development and not fully completed. Use with caution in production environments.
 A Python-based tool for synchronizing notes between Pipedrive and Active Campaign platforms. If you plan to use this tool test with a small number of notes
